@@ -9,4 +9,5 @@ def oxford_comma(array)
     new_array_element = "and #{array[-1]}"
     array.pop
     
+    
 end
