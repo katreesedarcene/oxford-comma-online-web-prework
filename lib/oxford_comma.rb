@@ -6,6 +6,6 @@ def oxford_comma(array)
     elsif
     array.length == 3
     
-    new_array_element = "and{array[-1]"
+    new_array_element = "and{array[-1]}"
     
 end
